@@ -22,3 +22,5 @@ Curso também uma Especialização em Automação e Controle de Processos Indust
 * Sensores e circuitos de condicionamento de sinais
 * Eletrônica digital e analógica
 * Linguagem de descrição de hardware VHDL
+
+Realizo palestras, oficinas, workshops sobre microcontroladores e Internet das Coisas
