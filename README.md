@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**danielvieira95/danielvieira95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá !
+Eu sou o Daniel Vieira, sou Engenheiro Eletricista, atualmente sou Mestrando em Engenharia Elétrica na Faculdade de Engenharia Elétrica e Computação da Unicamp (FEEC) cujo meu tema de pesquisa é sobre sensores e Internet Of Things (IOT).
+Curso também o curso de Especialização em Automação e Controle de Processos Industriais e Agroindustriais na Feagri .
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de interesse :
+* Internet das Coisas
+* Indústria 4.0
+* Agricultura 4.0
+* Mobilidade elétrica
+* Sistemas Embarcados
+* Automação industrial e residencial
+* Hardware
+* Sensores e circuitos de condicionamento de sinais
+* Eletrônica digital e analógica
+* Linguagem de descrição de hardware VHDL
