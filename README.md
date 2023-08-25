@@ -8,7 +8,7 @@
 
 
 ## Sobre mim
-Eu sou o Daniel Vieira, professor universitário na área de Computação na faculdade de Tecnologia Senai Roberto Mange.
+Eu sou o Daniel Vieira, professor universitário na área de Computação na Faculdade de Tecnologia Senai Roberto Mange.
 Doutorando e Mestre em Engenharia Elétrica na Faculdade de Engenharia Elétrica e Computação da Unicamp (FEEC) cujo meu tema de pesquisa é sobre sensores e Internet Of Things (IOT).
 Engenheiro Eletricista
 
