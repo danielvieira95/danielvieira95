@@ -8,14 +8,17 @@
 
 
 ## Sobre mim
-Eu sou o Daniel Vieira, sou Engenheiro Eletricista, atualmente sou Doutorando e mestre em Engenharia Elétrica na Faculdade de Engenharia Elétrica e Computação da Unicamp (FEEC) cujo meu tema de pesquisa é sobre sensores e Internet Of Things (IOT).
-Curso também uma Especialização em Automação e Controle de Processos Industriais e Agroindustriais na Feagri .
+Eu sou o Daniel Vieira, professor universitário na área de Computação na faculdade de Tecnologia Senai Roberto Mange.
+Doutorando e Mestre em Engenharia Elétrica na Faculdade de Engenharia Elétrica e Computação da Unicamp (FEEC) cujo meu tema de pesquisa é sobre sensores e Internet Of Things (IOT).
+Engenheiro Eletricista
 
 Realizo palestras, oficinas, workshops sobre microcontroladores e Internet das Coisas utilizando placas como ESP32, ESP8266 e Arduino com foco em projetos práticos e aplicações.
 
 
 ## Áreas de interesse :
+* Inteligência Artificial
 * Internet das Coisas
+* *TinyML
 * Indústria 4.0
 * Agricultura 4.0
 * Mobilidade elétrica
