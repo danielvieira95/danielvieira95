@@ -17,6 +17,7 @@ Realizo palestras, oficinas, workshops sobre microcontroladores e Internet das C
 
 ## Áreas de interesse :
 * Inteligência Artificial
+* Big Data
 * Internet das Coisas
 * TinyML
 * Indústria 4.0
