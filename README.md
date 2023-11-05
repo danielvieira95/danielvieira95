@@ -20,6 +20,10 @@ Realizo palestras, oficinas, workshops sobre microcontroladores e Internet das C
 * Big Data
 * Internet das Coisas
 * TinyML
+* Desenvolvimento de aplicativo Mobile - Flutter
+* Python para análise de dados
+* Pytorch
+* Tensor Flow
 * Indústria 4.0
 * Agricultura 4.0
 * Mobilidade elétrica
