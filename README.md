@@ -46,7 +46,7 @@ Sistema para contagem de pessoas desenvolvido no Mestrado apresentado no 2022 Sy
 
 Public Transportation Passengers Accounting at University by IoT Device
 
-10.1109/SIoT56383.2022.10070138
+https://ieeexplore.ieee.org/document/10070138
 
 
 
