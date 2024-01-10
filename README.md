@@ -49,4 +49,6 @@ Public Transportation Passengers Accounting at University by IoT Device
 https://ieeexplore.ieee.org/document/10070138
 
 
+Dissertação de Mestrado
 
+https://repositorio.unicamp.br/Acervo/Detalhe/1268376
