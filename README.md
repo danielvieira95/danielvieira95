@@ -35,12 +35,17 @@ Realizo palestras, oficinas, workshops sobre microcontroladores e Internet das C
 * Linguagem de descrição de hardware VHDL
 
 ## Artigos e publicações:
-Artigo sobre o sistema para contagem de pessoas desenvolvido no Mestrado
+
+
+
 A Low-Cost Bidirectional People Counter Device for Assisting Social Distancing Monitoring for COVID-19
+
 https://doi.org/10.1007/s40313-022-00916-z
 
-Artigo sobre o sistema para contagem de pessoas desenvolvido no Mestrado apresentado no 2022 Symposium on Internet of Things (SIoT)
+Sistema para contagem de pessoas desenvolvido no Mestrado apresentado no 2022 Symposium on Internet of Things (SIoT)
+
 Public Transportation Passengers Accounting at University by IoT Device
+
 10.1109/SIoT56383.2022.10070138
 
 
