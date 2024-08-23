@@ -36,7 +36,8 @@ Realizo palestras, oficinas, workshops sobre microcontroladores e Internet das C
 
 ## Artigos e publicações:
 
-
+School 4.0 - Hands on Project Based Learning in STEM and The INCT NAMITEC Network
+https://ieeexplore.ieee.org/document/10638152
 
 A Low-Cost Bidirectional People Counter Device for Assisting Social Distancing Monitoring for COVID-19
 
