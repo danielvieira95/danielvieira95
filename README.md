@@ -36,6 +36,11 @@ Realizo palestras, oficinas, workshops sobre microcontroladores e Internet das C
 
 ## Artigos e publicações:
 
+Controle de luminosidade utilizando Lógica Fuzzy e monitoramento via aplicativo
+
+(https://www.even3.com.br/anais/congressosenai-sp/956816-controle-de-luminosidade-utilizando-logica-fuzzy-e-monitoramento-via-aplicativo/)
+
+
 School 4.0 - Hands on Project Based Learning in STEM and The INCT NAMITEC Network
 
 
