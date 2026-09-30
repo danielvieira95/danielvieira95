@@ -36,6 +36,9 @@ Realizo palestras, oficinas, workshops sobre microcontroladores e Internet das C
 
 ## Artigos e publicações:
 
+EXPERIÊNCIA FORMATIVA EM TÓPICOS DE ELETRÔNICA COM ABORDAGEM STEAM: DESENVOLVIMENTO DE RECURSOS DIDÁTICOS COM A BITDOGLAB PARA A EDUCAÇÃO BÁSICA
+(https://abenge.org.br/publicacao/2026/?id=115)
+
 Controle de luminosidade utilizando Lógica Fuzzy e monitoramento via aplicativo
 
 (https://www.even3.com.br/anais/congressosenai-sp/956816-controle-de-luminosidade-utilizando-logica-fuzzy-e-monitoramento-via-aplicativo/)
